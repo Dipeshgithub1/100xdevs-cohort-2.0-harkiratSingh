@@ -8,4 +8,4 @@
 5. All the projects and their solutions given on the cohort.
 
 The repo is made on weekly basis as the cohort progresses.
-Feel free to access the repo and use it for your own learning.
+Feel free to access the repo and use it for your own learning...
