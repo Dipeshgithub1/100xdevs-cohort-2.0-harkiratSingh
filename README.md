@@ -2,7 +2,7 @@
 
 Welcome to the 100xDevs Cohort 2.0 Repository! This repository serves as a structured and organized collection of all the learning materials, assignments, projects, and resources shared throughout the cohort. It is continuously updated as the cohort progresses.
 
-📌 What's Inside?
+ 📌 What's Inside?
 
 1️⃣ Live Class & Recorded Session Notes
 
