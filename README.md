@@ -44,9 +44,9 @@ Feel free to fork, clone, and explore this repository for your own learning.
 
 If you find any improvements or additional resources, consider contributing via pull requests.
 
-Discussions and collaborations are always welcome!
+ Discussions and collaborations are always welcome!
 
-🔗 Stay Connected
+🔗  Stay Connected
 
 Stay engaged with the community and keep the learning spirit alive! If you have any questions or need further clarifications, feel free to reach out.
 
